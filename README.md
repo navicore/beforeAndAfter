@@ -22,3 +22,9 @@ The code is a demo of
 3. displaying images
 4. scaling images and drawaing them on another canvas
 5. notifying Android to include the pics in a scan so that they show in 'Gallery'
+
+Issues
+------
+1. the share menu item shows up but doesn't respond to touching
+
+
