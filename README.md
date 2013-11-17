@@ -9,7 +9,7 @@ Before And After
 written in a hurry between 8:30AM and 4PM with rusty skills
 
 
-1. Prompts the user to take a before pic and an after pic.
+1. Prompts the user to take a 'before' pic and an 'after' pic.
 2. The pictures are then merged into a single image with BEFORE and AFTER captions.
 3. The picture is in the Android Gallery and is sharable from within the app from the menubar.
 
