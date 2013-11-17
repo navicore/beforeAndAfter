@@ -30,7 +30,7 @@ Issues
 
 Todo:
 -----
-I stopped coding ad the 'pencils down' time at the hackathon and don't intend to do any more
+I stopped coding at the 'pencils down' time at the hackathon and don't intend to do any more
 but if I did continue I'd add the following features:
 
 1. Inspect the image area the text is targetted and make the text color contrast.  IE white on black and black on white.
