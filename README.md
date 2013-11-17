@@ -28,4 +28,18 @@ Issues
 1. the share menu item shows up but doesn't respond to touching
 2. the menu is hard to touch even if it did respond due to the fullscreen toggle
 
+Todo:
+-----
+I stopped coding ad the 'pencils down' time at the hackathon and don't intend to do any more
+but if I did continue I'd add the following features:
 
+1. Inspect the image area the text is targetted and make the text color contrast.  IE white on black and black on white.
+2. Center captions
+3. fix share menu
+4. add sounds
+5. add a side-by-side picture taking prompts layout for horizontal view and let user touch the pic placeholder they are about to take.
+
+
+Sample Output
+-------------
+![Alt text](samples/before_and_after_20131116_182834.jpg "Example Output")
