@@ -26,5 +26,6 @@ The code is a demo of
 Issues
 ------
 1. the share menu item shows up but doesn't respond to touching
+2. the menu is hard to touch even if it did respond due to the fullscreen toggle
 
 
