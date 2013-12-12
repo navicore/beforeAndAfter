@@ -6,7 +6,7 @@ Before And After
 #### A meme generator of before and after sharable cameraphone pics
 ---------------------------------------------------------------
 
-written in a hurry between 8:30AM and 4PM with rusty skills
+written in a hurry between 8:30AM and 4PM in a big strange crowded room with lots of distractions...
 
 
 1. Prompts the user to take a 'before' pic and an 'after' pic.
