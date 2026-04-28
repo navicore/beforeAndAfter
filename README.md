@@ -1,3 +1,8 @@
+<!-- ghmig:moved -->
+> **This repository has moved to [https://git.navicore.tech/navicore/beforeAndAfter](https://git.navicore.tech/navicore/beforeAndAfter).**
+>
+> The GitHub copy is archived and no longer maintained.
+
 Before And After
 ================
 
